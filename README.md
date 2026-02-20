@@ -26,8 +26,8 @@ Each section is written by a different team member.
 
 
 ## Notion
-<!-- [Team Member 2 Name] will write this section -->
-
+<!--Mark Mwangi    - Notion   is an all-in-one productivity and organization tool that  is extremely useful  by programmers.
+                   -
    ## Canva
 
 <!-- [Team Member 3 Name] will write this section -->     
