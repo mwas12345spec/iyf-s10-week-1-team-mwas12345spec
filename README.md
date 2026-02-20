@@ -25,13 +25,24 @@ Each section is written by a different team member.
 
 
 
+
 ## Notion
-<!-- [Team Member 3 Name] will write this section -->     
+<!-- Prudence Mutiso -  Notion helps users create, edit, and organize content within Notion.Its functions include:
+
+ - Writing & Editing: Generates text, improves grammar, tone, and clarity, and can translate content.
+
+ - Summarizing: Condenses long notes, documents, or meeting records into short summaries.
+
+ - Productivity: Creates tasks, action items, and organizes projects automatically.
+
+ - Smart Searching: Finds relevant information across your Notion workspace quickly.   
 
                    -
+   
+   
    ## Canva
 
-<!-- [Team Member 3 Name] will write this section -->     
+<!-- Daisy -  will write this section -->     
 
   
                     
