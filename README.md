@@ -46,7 +46,16 @@ Each section is written by a different team member.
 
   ## chat gpt
                     
-<!-- [Team Member 1 Name] will write this section -->
+<!---Daisy Wairimu -ChatGPT is an AI tool that helps programming students understand concepts, write code snippets, and solve problems faster.
+             
+    Why Students Should Use It -Explains programming concepts clearly in simple language.
+                               -Generates code in multiple languages (Python, JavaScript, Java, etc.).
+                               -Helps debug and optimize code.
+                               -Saves time when doing assignments or learning new topics.
+
+       Issues or Limitations -  Sometimes the code may not be perfect and needs human checking.
+                             - Can give outdated information if programming libraries have changed.
+                             - Over-reliance can make students skip understanding fundamentals.
 
 
 
