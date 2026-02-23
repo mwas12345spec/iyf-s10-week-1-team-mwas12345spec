@@ -42,7 +42,23 @@ Each section is written by a different team member.
    
    ## Canva
 
-<!-- Ehen -  will write this section -->     
+<!-- Ehen Mutiso - It is an online graphic design platform that allows users to create visual content easily.  -->
+
+                        1. Easy presentations – Create clean project slides quickly.
+                        
+                        2. UI/UX mockups – Design app and website layouts before coding.
+                        
+                        3. Portfolio building – Make professional resumes and project portfolios.
+                        
+                        4. Visual explanations – Create flowcharts and diagrams for coding concepts.
+                        
+                        5. Project documentation – Design neat reports and documentation.
+                        
+                        5. Team collaboration – Work together on group projects.
+                        
+                        6. Saves time – Ready-made templates speed up work.
+                        
+                        7. Beginner-friendly – No design skills needed.
 
   ## chat gpt
                     
