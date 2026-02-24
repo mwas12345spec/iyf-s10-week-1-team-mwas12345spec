@@ -1,6 +1,9 @@
  # Useful Tools for Students
 
-A collaborative guide by [list all team member names].
+A collaborative guide by  mwas12345spec
+                          kaduskotoxic-droid
+                          prudez prudence
+                          nimodee
 
 ## Table of Contents
     #introduction
