@@ -1,9 +1,9 @@
  # Useful Tools for Students
 
-A collaborative guide by  mwas12345spec
-                          kaduskotoxic-droid
-                          prudez prudence
-                          nimodee
+A collaborative guide by  Mark Mwangi Ngotho
+                          kadusko  toxic
+                           prudence  nduku
+                           Daisy Wairimu
 
 ## Table of Contents
     #introduction
